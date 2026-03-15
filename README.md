@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ashborn52/leetcode-solutions-/tree/master/0050-powx-n) |
+| [1622-fancy-sequence](https://github.com/ashborn52/leetcode-solutions-/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ashborn52/leetcode-solutions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
 |  |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ashborn52/leetcode-solutions-/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/ashborn52/leetcode-solutions-/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/ashborn52/leetcode-solutions-/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
