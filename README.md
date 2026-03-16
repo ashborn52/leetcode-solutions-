@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ashborn52/leetcode-solutions-/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ashborn52/leetcode-solutions-/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ashborn52/leetcode-solutions-/tree/master/0231-power-of-two) |
 | [1622-fancy-sequence](https://github.com/ashborn52/leetcode-solutions-/tree/master/1622-fancy-sequence) |
@@ -63,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ashborn52/leetcode-solutions-/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/ashborn52/leetcode-solutions-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
