@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ashborn52/leetcode-solutions-/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/ashborn52/leetcode-solutions-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ashborn52/leetcode-solutions-/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ashborn52/leetcode-solutions-/tree/master/0231-power-of-two) |
 | [0788-rotated-digits](https://github.com/ashborn52/leetcode-solutions-/tree/master/0788-rotated-digits) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ashborn52/leetcode-solutions-/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/ashborn52/leetcode-solutions-/tree/master/0078-subsets) |
 | [0874-walking-robot-simulation](https://github.com/ashborn52/leetcode-solutions-/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashborn52/leetcode-solutions-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ashborn52/leetcode-solutions-/tree/master/0048-rotate-image) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashborn52/leetcode-solutions-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ashborn52/leetcode-solutions-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashborn52/leetcode-solutions-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
