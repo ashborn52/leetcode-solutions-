@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/ashborn52/leetcode-solutions-/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashborn52/leetcode-solutions-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashborn52/leetcode-solutions-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2652-sum-multiples](https://github.com/ashborn52/leetcode-solutions-/tree/master/2652-sum-multiples) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ashborn52/leetcode-solutions-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ashborn52/leetcode-solutions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ashborn52/leetcode-solutions-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
