@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashborn52/leetcode-solutions-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ashborn52/leetcode-solutions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0874-walking-robot-simulation](https://github.com/ashborn52/leetcode-solutions-/tree/master/0874-walking-robot-simulation) |
+| [1306-jump-game-iii](https://github.com/ashborn52/leetcode-solutions-/tree/master/1306-jump-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashborn52/leetcode-solutions-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ashborn52/leetcode-solutions-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ashborn52/leetcode-solutions-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/ashborn52/leetcode-solutions-/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ashborn52/leetcode-solutions-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Trie
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/ashborn52/leetcode-solutions-/tree/master/1306-jump-game-iii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ashborn52/leetcode-solutions-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
