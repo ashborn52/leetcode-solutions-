@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ashborn52/leetcode-solutions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0874-walking-robot-simulation](https://github.com/ashborn52/leetcode-solutions-/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/ashborn52/leetcode-solutions-/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/ashborn52/leetcode-solutions-/tree/master/1345-jump-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashborn52/leetcode-solutions-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ashborn52/leetcode-solutions-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ashborn52/leetcode-solutions-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/ashborn52/leetcode-solutions-/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/ashborn52/leetcode-solutions-/tree/master/1345-jump-game-iv) |
 | [2615-sum-of-distances](https://github.com/ashborn52/leetcode-solutions-/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/ashborn52/leetcode-solutions-/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ashborn52/leetcode-solutions-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/ashborn52/leetcode-solutions-/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/ashborn52/leetcode-solutions-/tree/master/1345-jump-game-iv) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ashborn52/leetcode-solutions-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
