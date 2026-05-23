@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ashborn52/leetcode-solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashborn52/leetcode-solutions-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ashborn52/leetcode-solutions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ashborn52/leetcode-solutions-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ashborn52/leetcode-solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ashborn52/leetcode-solutions-/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/ashborn52/leetcode-solutions-/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashborn52/leetcode-solutions-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
