@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ashborn52/leetcode-solutions-/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashborn52/leetcode-solutions-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ashborn52/leetcode-solutions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0498-diagonal-traverse](https://github.com/ashborn52/leetcode-solutions-/tree/master/0498-diagonal-traverse) |
 | [0874-walking-robot-simulation](https://github.com/ashborn52/leetcode-solutions-/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/ashborn52/leetcode-solutions-/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ashborn52/leetcode-solutions-/tree/master/1345-jump-game-iv) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ashborn52/leetcode-solutions-/tree/master/0048-rotate-image) |
+| [0498-diagonal-traverse](https://github.com/ashborn52/leetcode-solutions-/tree/master/0498-diagonal-traverse) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashborn52/leetcode-solutions-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ashborn52/leetcode-solutions-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/ashborn52/leetcode-solutions-/tree/master/1861-rotating-the-box) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/ashborn52/leetcode-solutions-/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/ashborn52/leetcode-solutions-/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/ashborn52/leetcode-solutions-/tree/master/0874-walking-robot-simulation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ashborn52/leetcode-solutions-/tree/master/1914-cyclically-rotating-a-grid) |
