@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ashborn52/leetcode-solutions-/tree/master/0008-string-to-integer-atoi) |
+| [0179-largest-number](https://github.com/ashborn52/leetcode-solutions-/tree/master/0179-largest-number) |
 | [0500-keyboard-row](https://github.com/ashborn52/leetcode-solutions-/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/ashborn52/leetcode-solutions-/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/ashborn52/leetcode-solutions-/tree/master/0796-rotate-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ashborn52/leetcode-solutions-/tree/master/0179-largest-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ashborn52/leetcode-solutions-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ashborn52/leetcode-solutions-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ashborn52/leetcode-solutions-/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ashborn52/leetcode-solutions-/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashborn52/leetcode-solutions-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ashborn52/leetcode-solutions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0179-largest-number](https://github.com/ashborn52/leetcode-solutions-/tree/master/0179-largest-number) |
 | [0498-diagonal-traverse](https://github.com/ashborn52/leetcode-solutions-/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/ashborn52/leetcode-solutions-/tree/master/0500-keyboard-row) |
 | [0874-walking-robot-simulation](https://github.com/ashborn52/leetcode-solutions-/tree/master/0874-walking-robot-simulation) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ashborn52/leetcode-solutions-/tree/master/0179-largest-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ashborn52/leetcode-solutions-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ashborn52/leetcode-solutions-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashborn52/leetcode-solutions-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
