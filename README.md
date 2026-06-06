@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ashborn52/leetcode-solutions-/tree/master/0008-string-to-integer-atoi) |
+| [0500-keyboard-row](https://github.com/ashborn52/leetcode-solutions-/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/ashborn52/leetcode-solutions-/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/ashborn52/leetcode-solutions-/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ashborn52/leetcode-solutions-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashborn52/leetcode-solutions-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ashborn52/leetcode-solutions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0498-diagonal-traverse](https://github.com/ashborn52/leetcode-solutions-/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/ashborn52/leetcode-solutions-/tree/master/0500-keyboard-row) |
 | [0874-walking-robot-simulation](https://github.com/ashborn52/leetcode-solutions-/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/ashborn52/leetcode-solutions-/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ashborn52/leetcode-solutions-/tree/master/1345-jump-game-iv) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/ashborn52/leetcode-solutions-/tree/master/0500-keyboard-row) |
 | [0874-walking-robot-simulation](https://github.com/ashborn52/leetcode-solutions-/tree/master/0874-walking-robot-simulation) |
 | [1345-jump-game-iv](https://github.com/ashborn52/leetcode-solutions-/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/ashborn52/leetcode-solutions-/tree/master/2540-minimum-common-value) |
