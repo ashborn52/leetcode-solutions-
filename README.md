@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ashborn52/leetcode-solutions-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ashborn52/leetcode-solutions-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ashborn52/leetcode-solutions-/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ashborn52/leetcode-solutions-/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/ashborn52/leetcode-solutions-/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ashborn52/leetcode-solutions-/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ashborn52/leetcode-solutions-/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ashborn52/leetcode-solutions-/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ashborn52/leetcode-solutions-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ashborn52/leetcode-solutions-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ashborn52/leetcode-solutions-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashborn52/leetcode-solutions-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ashborn52/leetcode-solutions-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ashborn52/leetcode-solutions-/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/ashborn52/leetcode-solutions-/tree/master/1622-fancy-sequence) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ashborn52/leetcode-solutions-/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
