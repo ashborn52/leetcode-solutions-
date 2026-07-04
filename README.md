@@ -91,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ashborn52/leetcode-solutions-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashborn52/leetcode-solutions-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/ashborn52/leetcode-solutions-/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ashborn52/leetcode-solutions-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashborn52/leetcode-solutions-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ashborn52/leetcode-solutions-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1306-jump-game-iii](https://github.com/ashborn52/leetcode-solutions-/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ashborn52/leetcode-solutions-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashborn52/leetcode-solutions-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ashborn52/leetcode-solutions-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Trie
 |  |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1306-jump-game-iii](https://github.com/ashborn52/leetcode-solutions-/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ashborn52/leetcode-solutions-/tree/master/1345-jump-game-iv) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashborn52/leetcode-solutions-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ashborn52/leetcode-solutions-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
