@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ashborn52/leetcode-solutions-/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/ashborn52/leetcode-solutions-/tree/master/0500-keyboard-row) |
 | [0874-walking-robot-simulation](https://github.com/ashborn52/leetcode-solutions-/tree/master/0874-walking-robot-simulation) |
+| [1301-number-of-paths-with-max-score](https://github.com/ashborn52/leetcode-solutions-/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/ashborn52/leetcode-solutions-/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ashborn52/leetcode-solutions-/tree/master/1345-jump-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashborn52/leetcode-solutions-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ashborn52/leetcode-solutions-/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/ashborn52/leetcode-solutions-/tree/master/0498-diagonal-traverse) |
+| [1301-number-of-paths-with-max-score](https://github.com/ashborn52/leetcode-solutions-/tree/master/1301-number-of-paths-with-max-score) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashborn52/leetcode-solutions-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ashborn52/leetcode-solutions-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/ashborn52/leetcode-solutions-/tree/master/1861-rotating-the-box) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/ashborn52/leetcode-solutions-/tree/master/0788-rotated-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/ashborn52/leetcode-solutions-/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ashborn52/leetcode-solutions-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashborn52/leetcode-solutions-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/ashborn52/leetcode-solutions-/tree/master/2463-minimum-total-distance-traveled) |
