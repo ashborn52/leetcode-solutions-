@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/ashborn52/leetcode-solutions-/tree/master/0874-walking-robot-simulation) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashborn52/leetcode-solutions-/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/ashborn52/leetcode-solutions-/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/ashborn52/leetcode-solutions-/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/ashborn52/leetcode-solutions-/tree/master/1345-jump-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashborn52/leetcode-solutions-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ashborn52/leetcode-solutions-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ashborn52/leetcode-solutions-/tree/master/0179-largest-number) |
+| [1331-rank-transform-of-an-array](https://github.com/ashborn52/leetcode-solutions-/tree/master/1331-rank-transform-of-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ashborn52/leetcode-solutions-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ashborn52/leetcode-solutions-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/ashborn52/leetcode-solutions-/tree/master/1833-maximum-ice-cream-bars) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ashborn52/leetcode-solutions-/tree/master/0500-keyboard-row) |
 | [0874-walking-robot-simulation](https://github.com/ashborn52/leetcode-solutions-/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/ashborn52/leetcode-solutions-/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/ashborn52/leetcode-solutions-/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/ashborn52/leetcode-solutions-/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/ashborn52/leetcode-solutions-/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/ashborn52/leetcode-solutions-/tree/master/2615-sum-of-distances) |
